@@ -2,6 +2,12 @@ dwm - dynamic window manager
 ============================
 dwm is an extremely fast, small, and dynamic window manager for X.
 
+What's New
+----------
+This fork of dwm allows the user to move and resize windows with
+the super+hjkl keys, as well as switch between them using super+i,
+and binds dmenu to super+spacebar.
+
 
 Requirements
 ------------
